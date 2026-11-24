@@ -1,0 +1,2 @@
+/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
+LabAudioManifest({"lesson": "edge:china/regions", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "01ff1713 06da27c3 1486f6b2 198e2641 1bf512ea 1dd2d640 1dd69153 22cd3353 2620de9e 354912d9 35b5de10 35cb182a 3717b51c 51034ed3 535ed03b 550b9dd0 5cc1cf5b 5cfd2054 61889857 61f93193 687b55ef 6afc4051 806b7d5b 81b0666a 939b843f a5dfbcde b1bc4477 b858518e cca40d5a d56ba235 dde3ad62 ea7651c4 ed03961a fd209d50 ff9da8f0 ffb05cea"});
