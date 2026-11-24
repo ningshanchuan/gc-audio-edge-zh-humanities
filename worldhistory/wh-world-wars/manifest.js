@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:worldhistory/wh-world-wars", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "d1852c27 f0da696e f831b7ee"});
+LabAudioManifest({"lesson": "edge:worldhistory/wh-world-wars", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "02d729e8 066072ee 066e4f32 09121d5d 0dadaaff 0e6ddd43 104495ec 1278c170 16f4efab 19052f47 1915d2a4 199d065a 1aa6903a 1dbed982 1e7411dc 1f2f8866 20e969ad 21e84880 258eb179 28995de7 2e7fbc0e 2f8872de 314946c4 345e4fbc 388df264 39376e31 d1852c27 f0da696e f831b7ee"});
