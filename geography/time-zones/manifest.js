@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:geography/time-zones", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "15564133 8c20e245"});
+LabAudioManifest({"lesson": "edge:geography/time-zones", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "001676b9 00608749 07648b0f 087edd71 0946b27e 0d15b527 11d1bfb2 15564133 163c9dd8 1be98ae4 1d4015be 2112ef25 235bf904 24f2b111 26002509 26f9ec6e 2fc1cf67 313572a6 32cf0f52 363b23cc 36854b58 385a4b79 39262d3d 39c0594a 3a2a6962 3d37ea40 3d667d73 3f28b265 3ff28835 4062e04b 47b7e178 488a2bdf 4c377f12 4f3c1c64 5066a545 53fb40ca 587970a7 5914f825 5ab9d175 5b10525f 5c16fe1b 5cb86983 5d748cef 60ed642e 65079a1f 8c20e245"});
