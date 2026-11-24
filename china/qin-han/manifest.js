@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:china/qin-han", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "7bce3362 8ae92681 8cb14eec b4d90455"});
+LabAudioManifest({"lesson": "edge:china/qin-han", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "00a22483 02e7d5cf 04efa4b1 058ab176 0aa68b5d 0d12220d 0faf725d 14589b37 1675c833 17214c03 17821886 187da6d6 18c21324 1b288acb 1b54c8d1 1c4fe412 1c5d07db 1d0a06aa 1dbd5b1d 1eb1b1b7 1fa5ac7d 2133c324 22d62027 22da3be2 24c732d7 29d3bfd8 2a0f452c 2a312080 2dc64526 3118ca1d 3194cb7d 345df6cc 36896949 7bce3362 8ae92681 8cb14eec b4d90455"});
